@@ -29,8 +29,6 @@
   </tr>
 </table>
 
-<sub>*coming online — links activate as each section ships.*</sub>
-
 ⁂
 
 `kearney108 · MAY · 2026 · 108`
