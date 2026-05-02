@@ -2,7 +2,9 @@
   <img src="masthead.png" alt="kearney108 — a naturalist, in the old sense" width="100%" />
 </p>
 
+This is where I keep the things that matter to me — the un-careful version. Long-form arguments, monthly archive dives, field notes from where I am, marginalia from what I'm reading, and the things I keep building. Public, but not for anyone in particular.
 
+⁂
 
 ### ⁂ CURRENTLY
 
@@ -14,21 +16,25 @@
 | **digging** | Aldrovandi's *Monstrorum Historia*, 1642 edition |
 <!-- CURRENTLY:END -->
 
-
+⁂
 
 ### ⁂ THE PUBLICATION
 
-|  |  |
-|:---|:---|
-| **manifestos.** | *long-form arguments from the field* |
-| **archive-dive.** | *monthly finds from old papers &amp; collections* |
-| **field-notes.** | *specimens, observations from the way* |
-| **makes.** | *things built from the workbench* |
-| **marginalia.** | *notes on what others have written* |
-| **dispatch.** | *letters from where I am right now* |
+<table>
+  <tr>
+    <td width="33%"><a href="https://github.com/kearney108/manifestos"><img src="covers/manifestos.png" alt="manifestos." width="100%" /></a></td>
+    <td width="33%"><a href="https://github.com/kearney108/archive-dive"><img src="covers/archive-dive.png" alt="archive-dive." width="100%" /></a></td>
+    <td width="33%"><a href="https://github.com/kearney108/field-notes"><img src="covers/field-notes.png" alt="field-notes." width="100%" /></a></td>
+  </tr>
+  <tr>
+    <td width="33%"><a href="https://github.com/kearney108/makes"><img src="covers/makes.png" alt="makes." width="100%" /></a></td>
+    <td width="33%"><a href="https://github.com/kearney108/marginalia"><img src="covers/marginalia.png" alt="marginalia." width="100%" /></a></td>
+    <td width="33%"><a href="https://github.com/kearney108/dispatch"><img src="covers/dispatch.png" alt="dispatch." width="100%" /></a></td>
+  </tr>
+</table>
 
-<sub>*coming online — sections appear here as they go up.*</sub>
+<sub>*coming online — links activate as each section ships.*</sub>
 
-⁂  ⁂  ⁂
+⁂
 
 `kearney108 · MAY · 2026 · 108`
