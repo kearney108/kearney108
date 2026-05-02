@@ -14,7 +14,7 @@
 | **digging** | Aldrovandi's *Monstrorum Historia*, 1642 edition |
 <!-- CURRENTLY:END -->
 
-⁂
+
 
 ### ⁂ THE PUBLICATION
 
@@ -29,6 +29,6 @@
 
 <sub>*coming online — sections appear here as they go up.*</sub>
 
-⁂
+⁂⁂⁂
 
 `kearney108 · MAY · 2026 · 108`
