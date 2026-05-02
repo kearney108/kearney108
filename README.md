@@ -1,16 +1,42 @@
-## Hi there 👋
+<p align="center">
+  <img src="assets/covers/masthead.png" alt="" width="100%" />
+</p>
 
-My name is kearney108. <3<!--
-**kearney108/kearney108** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# kearney108
 
-Here are some ideas to get you started:
+> *a naturalist, in the old sense.*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⁂
+
+This is where I keep the things that matter to me — the un-careful version. Long-form arguments, monthly archive dives, field notes from where I am, marginalia from what I'm reading, and the things I keep building. Public, but not for anyone in particular.
+
+⁂
+
+### ⁂ CURRENTLY
+
+<!-- CURRENTLY:START -->
+|  |  |
+|---|---|
+| **reading** | Humboldt — *Personal Narrative of Travels to the Equinoctial Regions of the New Continent* |
+| **building** | a vibrato pedal with a bucket-brigade delay line |
+| **digging** | Aldrovandi's *Monstrorum Historia*, 1642 edition |
+<!-- CURRENTLY:END -->
+
+⁂
+
+### ⁂ THE PUBLICATION
+
+|  |  |
+|:---|:---|
+| **manifestos.** | *long-form arguments from the field* |
+| **archive-dive.** | *monthly finds from old papers &amp; collections* |
+| **field-notes.** | *specimens, observations from the way* |
+| **makes.** | *things built from the workbench* |
+| **marginalia.** | *notes on what others have written* |
+| **dispatch.** | *letters from where I am right now* |
+
+<sub>*coming online — sections appear here as they go up.*</sub>
+
+⁂
+
+`kearney108 · MAY · 2026 · 108`
