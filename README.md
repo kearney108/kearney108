@@ -22,14 +22,14 @@ This is where I keep the things that matter to me — the un-careful version. Lo
 
 <table>
   <tr>
-    <td width="33%"><a href="https://github.com/kearney108/manifestos"><img src="covers/manifestos.png" alt="manifestos." width="100%" /></a></td>
-    <td width="33%"><a href="https://github.com/kearney108/archive-dive"><img src="covers/archive-dive.png" alt="archive-dive." width="100%" /></a></td>
-    <td width="33%"><a href="https://github.com/kearney108/field-notes"><img src="covers/field-notes.png" alt="field-notes." width="100%" /></a></td>
+    <td width="33%"><a href="https://github.com/kearney108/manifestos"><img src="manifestos.png" alt="manifestos." width="100%" /></a></td>
+    <td width="33%"><a href="https://github.com/kearney108/archive-dive"><img src="archive-dive.png" alt="archive-dive." width="100%" /></a></td>
+    <td width="33%"><a href="https://github.com/kearney108/field-notes"><img src="field-notes.png" alt="field-notes." width="100%" /></a></td>
   </tr>
   <tr>
-    <td width="33%"><a href="https://github.com/kearney108/makes"><img src="covers/makes.png" alt="makes." width="100%" /></a></td>
-    <td width="33%"><a href="https://github.com/kearney108/marginalia"><img src="covers/marginalia.png" alt="marginalia." width="100%" /></a></td>
-    <td width="33%"><a href="https://github.com/kearney108/dispatch"><img src="covers/dispatch.png" alt="dispatch." width="100%" /></a></td>
+    <td width="33%"><a href="https://github.com/kearney108/makes"><img src="makes.png" alt="makes." width="100%" /></a></td>
+    <td width="33%"><a href="https://github.com/kearney108/marginalia"><img src="marginalia.png" alt="marginalia." width="100%" /></a></td>
+    <td width="33%"><a href="https://github.com/kearney108/dispatch"><img src="dispatch.png" alt="dispatch." width="100%" /></a></td>
   </tr>
 </table>
 
