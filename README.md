@@ -1,12 +1,6 @@
 <p align="center">
-  <img src="assets/covers/masthead.png" alt="" width="100%" />
+  <img src="masthead.png" alt="kearney108 — a naturalist, in the old sense" width="100%" />
 </p>
-
-# kearney108
-
-> *a naturalist, in the old sense.*
-
-⁂
 
 This is where I keep the things that matter to me — the un-careful version. Long-form arguments, monthly archive dives, field notes from where I am, marginalia from what I'm reading, and the things I keep building. Public, but not for anyone in particular.
 
