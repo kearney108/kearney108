@@ -2,7 +2,7 @@
   <img src="masthead.png" alt="kearney108 — a naturalist, in the old sense" width="100%" />
 </p>
 
-### ⁂ CURRENTLY
+###                                                        ⁂ CURRENTLY ⁂
 
 <!-- CURRENTLY:START -->
 |  |  |
