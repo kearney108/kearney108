@@ -17,7 +17,7 @@
 <!-- CURRENTLY:END -->
 
 <p align="center">
-  <img src="divider.png" alt="" width="80" />
+  <img src="divider-band.png" alt="" width="100" />
 </p>
 
 ### ⁂ THE PUBLICATION
