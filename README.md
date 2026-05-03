@@ -19,7 +19,7 @@ This is where I'm putting my writing. Long-form arguments, monthly archive dives
 <!-- CURRENTLY:END -->
 
 <p align="center">
-  <img src="divider-band.png?v=3" alt="" width="480" />
+  <img src="divider-band2.png?v=3" alt="" width="480" />
 </p>
 
 ### ⁂ THE PUBLICATION
