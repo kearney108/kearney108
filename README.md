@@ -2,8 +2,6 @@
   <img src="masthead.png" alt="kearney108 — a naturalist, in the old sense" width="100%" />
 </p>
 
-This is where I keep the things that matter to me — the un-careful version. Long-form arguments, monthly archive dives, field notes from where I am, marginalia from what I'm reading, and the things I keep building. Public, but not for anyone in particular.
-
 <p align="center">
   <img src="divider.png" alt="" width="80" />
 </p>
