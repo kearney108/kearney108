@@ -2,7 +2,7 @@
   <img src="masthead.png?v=6" alt="kearney108 — a naturalist, in the old sense" width="100%" />
 </p>
 
-This is where I keep the things that matter to me — the un-careful version. Long-form arguments, monthly archive dives, field notes from where I am, marginalia from what I'm reading, and the things I keep building. Public, but not for anyone in particular.
+This is where I'm putting my writing. Long-form arguments, monthly archive dives, field notes from where I am, marginalia from what I'm reading, and the things I keep building. Public, but not for anyone in particular.
 
 <p align="center">
   <img src="divider-band.png?v=3" alt="" width="480" />
