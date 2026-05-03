@@ -1,9 +1,11 @@
 <p align="center">
-  <img src="masthead.png?v=4" alt="kearney108 — a naturalist, in the old sense" width="100%" />
+  <img src="masthead.png?v=6" alt="kearney108 — a naturalist, in the old sense" width="100%" />
 </p>
 
+This is where I keep the things that matter to me — the un-careful version. Long-form arguments, monthly archive dives, field notes from where I am, marginalia from what I'm reading, and the things I keep building. Public, but not for anyone in particular.
+
 <p align="center">
-  <img src="divider-band.png?v=2" alt="" width="480" />
+  <img src="divider-band.png?v=3" alt="" width="480" />
 </p>
 
 ### ⁂ CURRENTLY
@@ -17,7 +19,7 @@
 <!-- CURRENTLY:END -->
 
 <p align="center">
-  <img src="divider-band.png?v=2" alt="" width="480" />
+  <img src="divider-band.png?v=3" alt="" width="480" />
 </p>
 
 ### ⁂ THE PUBLICATION
@@ -36,7 +38,7 @@
 </table>
 
 <p align="center">
-  <img src="divider-band.png?v=2" alt="" width="480" />
+  <img src="divider-band.png?v=3" alt="" width="480" />
 </p>
 
 <p align="center">
@@ -46,7 +48,7 @@
 </p>
 
 <p align="center">
-  <img src="divider.png" alt="" width="80" />
+  <img src="divider.png?v=2" alt="" width="140" />
 </p>
 
 `kearney108 · MAY · 2026 · 108`
