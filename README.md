@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="divider.png" alt="" width="80" />
+  <img src="divider-band.png" alt="" width="80" />
 </p>
 
 ### ⁂ CURRENTLY
@@ -34,10 +34,6 @@
     <td width="33%"><a href="https://github.com/kearney108/dispatch"><img src="cover-dispatch.png" alt="dispatch. — letters from where I am right now" width="100%" /></a></td>
   </tr>
 </table>
-
-<p align="center">
-  <img src="divider.png" alt="" width="80" />
-</p>
 
 <p align="center">
   <a href="https://kearney108.github.io">
